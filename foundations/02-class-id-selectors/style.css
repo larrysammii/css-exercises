@@ -1,0 +1,20 @@
+p {
+  background-color: pink;
+  font-family: Verdana, "DejaVu Sans", sans-serif;
+  
+}
+
+#second {
+  color: #0000bb;
+  font-size: 36px;
+}
+
+.cooler {
+  font-size: 24px;
+}
+
+#forth {
+  background-color: #20b2aa;
+  font-size: 24px;
+  font-weight: bold;
+}
